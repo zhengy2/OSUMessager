@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OSUMessager</string>
+    <string name="action_settings">OSUMessager</string>
+    <string name="submit_button">Login</string>
+    <string name="register">register</string>
+    <string name="register_button">Submit</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
